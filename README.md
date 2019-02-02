@@ -1,6 +1,10 @@
 # zipBrut
 zip file brutforce attack tool
 
+<a href="https://pypi.python.org/pypi/wfuzz"><img src="https://img.shields.io/pypi/v/wfuzz.svg"></a>
+<a href="https://pypi.python.org/pypi/wfuzz"><img src="https://img.shields.io/pypi/pyversions/wfuzz.svg"></a>
+<a href="https://codecov.io/github/xmendez/wfuzz"><img src="https://codecov.io/github/xmendez/wfuzz/coverage.svg?branch=master"></a>
+
 Use:
 using ubantu,debian,kali linux, termux and other any linux ,mac ,windows os
 fast you need to install python version 2 to install python 2 
